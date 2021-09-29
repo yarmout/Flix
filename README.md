@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-There was a problem was implementing the rounded corner posters. Initially, this caused a bug where the recycler view elements were spaced apart far to much. This was fixed by changing the poster size to a static height instead of setting it to wrap content.
+There was a problem was implementing the rounded corner posters. Initially, this caused a bug in the recycler view - elements were spaced apart far to much. This was fixed by changing the poster size to a static height instead of setting it to wrap content.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
