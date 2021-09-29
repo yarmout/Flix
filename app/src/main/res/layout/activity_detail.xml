@@ -17,6 +17,7 @@
         android:id="@+id/tvTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="@android:color/primary_text_light"
         android:textSize="30sp"
         tools:text="Sample Title" />
 
